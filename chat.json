@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Ansh'\", \"checked\": true}, {\"feature\": \"Add a button with text 'Great'\", \"checked\": true}, {\"feature\": \"Implement hover effects on buttons\", \"checked\": false}, {\"feature\": \"Add tooltips for buttons for better accessibility\", \"checked\": false}, {\"feature\": \"Customize button colors based on user preferences\", \"checked\": false}], \"input_token_count\": 268, \"output_token_count\": 96, \"time_taken\": \"0:00:01.438245\"}",
+        "message_id": "guest03092024074755",
+        "timestamp": "03092024074801",
+        "component_file_name": "simple_cta_component_1725349462",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What color scheme would you like for the new button?\", \"option1\": \"Match the existing buttons\", \"option2\": \"Use a different color for emphasis\"}, {\"question 2\": \"Where would you like the button to be positioned on the screen?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}], \"input_token_count\": 314, \"output_token_count\": 91, \"time_taken\": \"0:00:01.225527\"}",
         "message_id": "guest03092024074755",
