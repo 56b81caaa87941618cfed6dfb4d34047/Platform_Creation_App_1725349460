@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action should the 'Great' button perform when clicked?\", \"option1\": \"Navigate to another page\", \"option2\": \"Trigger a popup message\"}, {\"question 2\": \"Do you have any preferred design elements for the button, such as color or size?\", \"option1\": \"Yes, I have specific colors in mind\", \"option2\": \"No, I am open to suggestions\"}], \"input_token_count\": 289, \"output_token_count\": 97, \"time_taken\": \"0:00:01.367343\"}",
+        "message_id": "guest03092024074501",
+        "timestamp": "03092024074505",
+        "component_file_name": "simple_cta_component_1725349462",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Great",
         "message_id": "guest03092024074501",
