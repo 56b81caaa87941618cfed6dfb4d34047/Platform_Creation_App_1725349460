@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button with text Ansh",
+        "message_id": "guest03092024074755",
+        "timestamp": "03092024074756",
+        "component_file_name": "simple_cta_component_1725349462",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Great'\", \"checked\": true}, {\"feature\": \"Add a loading spinner for better user experience\", \"checked\": false}, {\"feature\": \"Include a tooltip that explains the button function\", \"checked\": false}, {\"feature\": \"Implement hover effects for the button\", \"checked\": false}, {\"feature\": \"Create an alert message when the button is clicked\", \"checked\": false}], \"input_token_count\": 243, \"output_token_count\": 99, \"time_taken\": \"0:00:01.390469\"}",
         "message_id": "guest03092024074501",
