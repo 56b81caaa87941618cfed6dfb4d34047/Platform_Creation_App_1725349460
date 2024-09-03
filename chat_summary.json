@@ -14,6 +14,12 @@
         "message_id": "guest03092024074755"
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll add a button with the text \"Ansh.\"",
+        "timestamp": "03092024074801",
+        "message_id": "guest03092024074755"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What color scheme would you like for the new button?\", \"option1\": \"Match the existing buttons\", \"option2\": \"Use a different color for emphasis\"}, {\"question 2\": \"Where would you like the button to be positioned on the screen?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}], \"input_token_count\": 314, \"output_token_count\": 91, \"time_taken\": \"0:00:01.225527\"}",
         "timestamp": "03092024074759",
