@@ -4,5 +4,6 @@
     "project_description": "an app for making the Platforms",
     "creation_time": "2024-09-03 07:44:20.465475",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a surreal, cosmic landscape with dominant hues of deep pink, purple, and black, creating a vibrant, otherworldly atmosphere. The style is a blend of fantasy and science fiction, showcasing a large, ethereal planet and smaller celestial bodies against a mountainous, reflective terrain."
 }
